@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+.login-form{
+    background-color: white;
+    width: 22%;
+    text-align: center;
+    margin-top: 170px;
+    margin-left: 400px;
+    border-radius: 10px;
+
+}
